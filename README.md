@@ -2,7 +2,7 @@
 ##Taller practico uno, realizado por los alumnos:
 - Edwin Rene Roque Bonilla
 - Rony Stanley Marroquin Erroa
- Porcentaje alcansado 50%
+
 ##NOta
 -Porcentaje alcansado 50%
 -La aplicacion se cierra cuando intenta pasar ala opcion calcular promedio
