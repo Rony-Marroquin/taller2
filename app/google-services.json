@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940490884785",
+    "project_id": "logintaller02",
+    "storage_bucket": "logintaller02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940490884785:android:c74f19c227583859fd8490",
+        "android_client_info": {
+          "package_name": "udb.sv.tallerpractico01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940490884785-0rtcjkcifc2jgbhighart2b7data45lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFe9Vu8L9GV5ezb7gas8Od2udI34Xp5cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940490884785-0rtcjkcifc2jgbhighart2b7data45lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
